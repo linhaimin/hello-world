@@ -66,7 +66,7 @@
           href="https://github.com/vuejs/vue-devtools#vue-devtools"
           target="_blank"
           rel="noopener"
-          >vue-devtools</a
+          >vue-devtool</a
         >
       </li>
       <li>
