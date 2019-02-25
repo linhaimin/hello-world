@@ -79,7 +79,7 @@
           href="https://github.com/vuejs/awesome-vue"
           target="_blank"
           rel="noopener"
-          >awesome-vuex</a
+          >awesome-vue</a
         >
       </li>
     </ul>
